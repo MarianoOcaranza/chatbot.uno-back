@@ -1,0 +1,22 @@
+[
+  { 
+    "question": "¿Cuál es el plan de estudios de la Licenciatura en Informática?", 
+    "answer": "El plan incluye materias de programación, sistemas operativos, bases de datos, redes y proyectos finales." 
+  },
+  { 
+    "question": "¿Donde donde se encuentra la facultad?",
+    "answer": "La facultad queda en calle cordoba blablabla" 
+  },
+  { 
+    "question": "Cual es la direccion de la facultad?",
+    "answer": "La facultad queda en calle cordoba blablabla" 
+  },
+  { 
+    "question": "¿Qué horarios tienen las clases de la cursada?",
+    "answer": "Las clases suelen ser de lunes a viernes, de 8 a 20 hs según la materia." 
+  },
+  { 
+    "question": "¿Dónde puedo ver más sobre la carrera?", 
+    "answer": "Puedes contactarlos vía email institucional que figura en la página de cada materia."
+  }
+]
