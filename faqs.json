@@ -1,22 +1,48 @@
 [
   { 
-    "question": "¿Cuál es el plan de estudios de la Licenciatura en Informática?", 
-    "answer": "El plan incluye materias de programación, sistemas operativos, bases de datos, redes y proyectos finales." 
+    "question": "¿Cuál es el plan de estudios de la Licenciatura en Informática?",
+    "alternatives": ["Plan de estudios informática", "Materias de la carrera", "  ¿Cómo es la carrera?", "Cuéntame un poco sobre la carrera", "Qué materias tiene la licenciatura en informática"],
+    "link": "https://www.uno.edu.ar/images/documentos/escuelas/Plan-de-Estudios-Lic-en-Informatica-2022.pdf",
+    "answer": "El plan de estudios de la carrera está constituido materias de programación, sistemas operativos, bases de datos, comunicaciones y redes, análisis matemático y más. Al finalizarlo, obtendrás el título de Licenciado en Informática. Ah! y al finalizar el tercer año de la carrera, estarías obteniendo el título de Analista en Informática, que es un título intermedio previo a la Licenciatura. Te comparto el link al PDF del plan de estudios para que puedas consultar la información completa."
   },
   { 
-    "question": "¿Donde donde se encuentra la facultad?",
-    "answer": "La facultad queda en calle cordoba blablabla" 
-  },
-  { 
-    "question": "Cual es la direccion de la facultad?",
-    "answer": "La facultad queda en calle cordoba blablabla" 
+    "question": "¿Dónde se encuentra la facultad?",
+    "alternatives": ["Dónde queda la facultad", "Ubicación de la universidad", "¿Cuál es la dirección de la facultad?", "Dirección de la UNO", "Dónde está la sede de informática"],
+    "answer": "La facultad de la Licenciatura en Informática queda en Merlo, Buenos Aires, sobre calle Córdoba. Buscanos en Google Maps como 'UNO Sede Córdoba'."
   },
   { 
     "question": "¿Qué horarios tienen las clases de la cursada?",
-    "answer": "Las clases suelen ser de lunes a viernes, de 8 a 20 hs según la materia." 
+    "alternatives": ["Horarios de las materias", "Horario de clases", "Hora de clases", "Hora de cursada"],
+    "answer": "Las clases suelen ser de lunes a viernes, de 8 a 22 hs según la materia y el año de cursada."
   },
   { 
-    "question": "¿Dónde puedo ver más sobre la carrera?", 
-    "answer": "Puedes contactarlos vía email institucional que figura en la página de cada materia."
+    "question": "¿Qué salida laboral tiene la carrera?",
+    "alternatives": ["Salidas laborales informática", "De qué puedo trabajar con informática"],
+    "answer": "Como informático, vas a poder trabajar en programación, ingeniería y desarrollo de software, análisis de datos, ciberseguridad, redes y mucho más."
+  },
+  {
+    "question": "¿Cuándo son las inscripciones?",
+    "alternatives": ["Fecha de inscripción", "Cuándo puedo inscribirme", "Fechas de ingreso UNO"],
+    "link": "https://www.uno.edu.ar/estudiantes-uno/calendario-academico.html",
+    "answer": "Las inscripciones al ciclo lectivo 2026 serán del 6 al 31 de Octubre de 2025. Más información en el calendario académico:"
+  }, 
+  {
+    "question": "¿Qué documentación tengo que llevar para inscribirme?",
+    "alternatives": ["Requisitos inscripción", "Cómo inscribirme", "Qué papeles necesito para inscribirme"],
+    "link": "https://www.uno.edu.ar/inscripcion.html",
+    "answer": "Para las próximas inscripciones al ciclo lectivo 2026, tenés que presentarte del 6 al 31 de octubre de 2025 y vas a necesitar: formulario de preinscripción, DNI, partida de nacimiento, analítico secundario o constancia de título en trámite, 3 fotos carnet 4x4, certificado de grupo y factor sanguíneo y certificado de aptitud física. Para ver más información sobre las inscripciones, accedé al siguiente link:"
+  },
+  {
+    "question": "¿Cuántas materias son?",
+    "alternatives": ["Cantidad de materias", "¿Cuántos años tiene la carrera de Informática?", "Duración de la carrera", "Cuántas materias tiene la carrera"],
+    "link": "https://www.uno.edu.ar/images/documentos/escuelas/Plan-de-Estudios-Lic-en-Informatica-2022.pdf",
+    "answer": "La carrera tiene 51 materias principales que están planificadas para finalizarse en 5 años, y un título intermedio de Analista en Informática a obtener en el tercer año. Tené en cuenta que la duración real de la carrera dependerá de qué tantas materias hagas por cuatrimestre. Te comparto el link del plan de estudios para que tengas la información completa: "
+  },
+  {
+    "question": "¿Qué otras carreras ofrece la Universidad?",
+    "alternatives": ["Otras carreras", "¿Qué puedo estudiar en la Universidad Nacional del Oeste?", "¿Qué se puede estudiar en la UNO?", "¿Hay otras carreras en la Universidad?"],
+    "link": "https://www.uno.edu.ar/oferta-academica.html",
+    "answer": "Además de la Licenciatura en Informática, la Universidad Nacional del Oeste, en sus distintas sedes, ofrece otras carreras como: \n-Abogacía \n-Licenciatura en Administración \n-Licenciatura en Economía \n-Licenciatura en Enfermería \n-Odontología \n-Ingeniería Química \n-Licenciatura en Gestión Educativa \n-Licenciatura en Matemática \nentre muchísimas otras más, incluyendo carreras de posgrado. Si queres consultar la oferta académica completa, acá te comparto el link: "
   }
+
 ]
