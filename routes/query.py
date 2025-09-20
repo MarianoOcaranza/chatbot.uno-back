@@ -43,16 +43,12 @@ def ask_question(query: Query):
 
     prompt = f"""
         Sos un agente que se dedica a responder dudas para la carrera de Licenciatura en Informática de la Universidad Nacional del Oeste.
-        Instrucciones:
-        - Responde en español argentino, tono informal y cordial.
-        - No incluyas saludos ni links en la respuesta.
-        - Máximo 200 palabras.
-        - Si no hay info suficiente: "No tengo suficiente información para responder".
+        Responde en español argentino, tono informal, cordial, no incluyas saludos ni links en la respuesta, máximo 200 palabras.
 
-        Pregunta del usuario:
+        Pregunta:
         {query.question}
 
-        Contexto relevante:
+        Contexto:
         {context_text}
     """
 
