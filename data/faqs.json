@@ -3,7 +3,7 @@
     "question": "¿Cuál es el plan de estudios de la Licenciatura en Informática?",
     "alternatives": ["Plan de estudios informática", "Materias de la carrera", "  ¿Cómo es la carrera?", "Cuéntame un poco sobre la carrera", "Qué materias tiene la licenciatura en informática"],
     "link": "https://www.uno.edu.ar/images/documentos/escuelas/Plan-de-Estudios-Lic-en-Informatica-2022.pdf",
-    "answer": "El plan de estudios de la carrera está constituido materias de programación, sistemas operativos, bases de datos, comunicaciones y redes, análisis matemático y más. Al finalizarlo, obtendrás el título de Licenciado en Informática. Ah! y al finalizar el tercer año de la carrera, estarías obteniendo el título de Analista en Informática, que es un título intermedio previo a la Licenciatura. Te comparto el link al PDF del plan de estudios para que puedas consultar la información completa."
+    "answer": "El plan de estudios de la carrera está constituido materias de programación, sistemas operativos, bases de datos, comunicaciones y redes, análisis matemático y más. Al finalizarlo, obtendrás el título de Licenciado en Informática. Al finalizar el tercer año de la carrera, estarías obteniendo el título de Analista en Informática, que es un título intermedio previo a la Licenciatura."
   },
   { 
     "question": "¿Dónde se encuentra la facultad?",
@@ -30,19 +30,49 @@
     "question": "¿Qué documentación tengo que llevar para inscribirme?",
     "alternatives": ["Requisitos inscripción", "Cómo inscribirme", "Qué papeles necesito para inscribirme"],
     "link": "https://www.uno.edu.ar/inscripcion.html",
-    "answer": "Para las próximas inscripciones al ciclo lectivo 2026, tenés que presentarte del 6 al 31 de octubre de 2025 y vas a necesitar: formulario de preinscripción, DNI, partida de nacimiento, analítico secundario o constancia de título en trámite, 3 fotos carnet 4x4, certificado de grupo y factor sanguíneo y certificado de aptitud física. Para ver más información sobre las inscripciones, accedé al siguiente link:"
+    "answer": "Para las próximas inscripciones al ciclo lectivo 2026, tenés que presentarte del 6 al 31 de octubre de 2025 y vas a necesitar: formulario de preinscripción, DNI, partida de nacimiento, analítico secundario o constancia de título en trámite, 3 fotos carnet 4x4, certificado de grupo y factor sanguíneo y certificado de aptitud física."
   },
   {
     "question": "¿Cuántas materias son?",
     "alternatives": ["Cantidad de materias", "¿Cuántos años tiene la carrera de Informática?", "Duración de la carrera", "Cuántas materias tiene la carrera"],
     "link": "https://www.uno.edu.ar/images/documentos/escuelas/Plan-de-Estudios-Lic-en-Informatica-2022.pdf",
-    "answer": "La carrera tiene 51 materias principales que están planificadas para finalizarse en 5 años, y un título intermedio de Analista en Informática a obtener en el tercer año. Tené en cuenta que la duración real de la carrera dependerá de qué tantas materias hagas por cuatrimestre. Te comparto el link del plan de estudios para que tengas la información completa: "
+    "answer": "La carrera tiene 51 materias principales que están planificadas para finalizarse en 5 años, y un título intermedio de Analista en Informática a obtener en el tercer año. Tené en cuenta que la duración real de la carrera dependerá de qué tantas materias hagas por cuatrimestre."
   },
   {
     "question": "¿Qué otras carreras ofrece la Universidad?",
     "alternatives": ["Otras carreras", "¿Qué puedo estudiar en la Universidad Nacional del Oeste?", "¿Qué se puede estudiar en la UNO?", "¿Hay otras carreras en la Universidad?"],
     "link": "https://www.uno.edu.ar/oferta-academica.html",
     "answer": "Además de la Licenciatura en Informática, la Universidad Nacional del Oeste, en sus distintas sedes, ofrece otras carreras como: \n-Abogacía \n-Licenciatura en Administración \n-Licenciatura en Economía \n-Licenciatura en Enfermería \n-Odontología \n-Ingeniería Química \n-Licenciatura en Gestión Educativa \n-Licenciatura en Matemática \nentre muchísimas otras más, incluyendo carreras de posgrado. Si queres consultar la oferta académica completa, acá te comparto el link: "
+  },
+  {
+    "question": "¿Cómo es la modalidad de cursada?",
+    "alternatives": ["Materias virtuales", "Cursada virtual"],
+    "answer": "La modalidad de cursada depende de la materia y de la comisión. Puede ser que te toquen materias 100% presenciales, algunas otras híbridas, y otras totalmente remotas."
+  },
+  {
+    "question": "¿Existen becas o descuentos para estudiantes?",
+    "answer": "Ademas de las becas Progresar y Manuel Belgrano, la UNO ofrece becas internas para estudiantes y estudiantes avanzados. Estas son: Becas IMPULSO, Becas ESTÍMULO, Becas EXCELENCIA ACADÉMICA, Becas para GRUPOS PRIORITARIOS y Becas para ESTUDIANTES DEPORTISTAS",
+    "link": "https://www.uno.edu.ar/extension/becas.html"
+  },
+  {
+    "question": "¿Cómo puedo contactarme con las autoridades?",
+    "alternatives": ["vias de contacto", "contacto"],
+    "answer": "Cada escuela tiene su propio medio de contacto que es al departamento de alumnos. Podes recibir atención de forma presencial en la sede pertinente, o mediante correo electrónico.",
+    "link": "https://www.uno.edu.ar/index.php/departamento-de-alumnos/395-centros-de-informes-por-escuelas"
+  },
+  {
+    "question": "¿La carrera es gratuita?",
+    "alternatives": ["¿Se paga?", "Costo de la carrera", "Precio de la licenciatura"],
+    "answer": "Sí, al ser una universidad pública nacional, la Licenciatura en Informática es totalmente gratuita."
+  },
+  {
+    "question": "¿La carrera tiene pasantías?",
+    "alternatives": ["¿Puedo hacer pasantías?", "Pasantías informática UNO", "Trabajo mientras estudio"],
+    "answer": "Sí, la universidad ofrece convenios con empresas y organismos para que los estudiantes puedan realizar pasantías y prácticas profesionales durante la carrera."
+  },
+  {
+    "question": "¿Se reconocen materias de otra universidad?",
+    "alternatives": ["Equivalencias", "Reconocimiento de materias", "Pase de otra universidad"],
+    "answer": "Sí, podés solicitar equivalencias presentando tu certificado analítico de la institución de origen. La universidad evaluará qué materias se pueden reconocer."
   }
-
 ]
