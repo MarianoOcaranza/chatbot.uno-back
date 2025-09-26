@@ -55,7 +55,12 @@ def ask_question(query: Query):
     response_text = llm.generate_response(prompt)
 
     #Se devuelve el JSON para ser procesado en el frontend
-    return {
-        "answer": response_text,
-        "link": faq_links[best_idx],
-    }
+    if(best_score >= THRESHOLD):
+        return {
+            "answer": response_text,
+            "link": faq_links[best_idx],
+        }
+    else:
+        return {
+            "answer": response_text
+        }
